@@ -1,2 +1,2 @@
 # ArithmeticExpressionTestCase
-Modiefied code of https://stackoverflow.com/a/6881218
+Modified  code of https://stackoverflow.com/a/6881218
